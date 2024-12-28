@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Alfonso Ramos",
+    "name": "José Alfonso Ramos Castro",
     "label": "Junior Full Stack Developer",
     "image": "/me_avatar.png",
     "email": "ponchoramos.contact@gmail.com",
     "url": "https://ponchoramos.com",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "summary": "My friends and on the internet I am known as Poncho, I am a Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "theme": "blue",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,85 +34,99 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "name": "Eighteen company",
+      "position": "Trainee Fullstack Web Developer",
+      "location_type": "Remote",
+      "location": "Guadalajara, Jalisco",
+      "url": "https://eighteen.com.mx/",
+      "startDate": "2024-05-01",
+      "endDate": "2024-05-01",
+      "summary": "Collaborated remotely with a software company, leveraging tools like Google Meet for effective communication and Visual Studio Code for development. Contributed to the design and implementation of both frontend and backend projects, utilizing modern technologies such as React, Express, and MongoDB. Gained valuable practical experience in building scalable applications and collaborating in a professional development environment.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Frontend: React – components, state management, and data handling.",
+        "Backend: Express and MongoDB integration using Mongoose.","Tools: Visual Studio Code, Git, Google Meet."
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Designed and implemented dynamic and user-friendly interfaces using React.",
+        "Developed RESTful APIs with Express and managed databases using MongoDB with Mongoose.",
+        "Utilized Git to track and share project progress in a collaborative environment.",
+        "Conducted testing, debugging, and final adjustments to ensure project quality."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Delivered the DrinkFinder project: Successfully designed and built a fully functional user interface to search and display drink information, aligning with client requirements and receiving positive feedback.",
+        "Developed a task and project manager system: Built a robust backend with efficient endpoints for managing data, alongside a basic functional frontend to complete the workflow.",
+        "Completed a comprehensive project review: Conducted a final review and testing phase to ensure all deliverables met the company’s quality standards."
       ],
       "skills": [
         "React",
         "Tailwind",
+        "GitHub",
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "AWS Startups Mexico",
+      "position": "Designer and Frontend developer",
+      "location_type": "Remote",
+      "location": "CDMX, México",
+      "url": "https://startupmexico.com/",
+      "startDate": "2022-06-01",
+      "endDate": "2022-06-01",
+      "summary": "Participated in the AWS Startups Mexico Hackathon, where our team developed KAIZEN, a B2B web application designed to streamline healthcare processes. The platform enabled the connection of patients’ biometric data with nurses, ensuring quick and efficient record-keeping. The project was built entirely using React, demonstrating expertise in modern frontend development.",
+      "highlights": [
+        "Frontend: Pure React – component-driven architecture and state management.",
+        "Collaboration: Agile teamwork and quick prototyping under tight deadlines."
+      ],
+      "responsibilities": [
+        "Designed and developed the user interface using pure React, ensuring a responsive and user-friendly experience.",
+        "Integrated components to display and manage biometric data in real-time.",
+        "Collaborated with the team to align functionality with healthcare requirements.",
+        "Presented the project to a panel of judges, highlighting its impact and usability."
+      ],
+      "achievements": [
+        "Successfully built a fully functional web application within the hackathon's time constraints.",
+        "Received recognition for creating a solution focused on improving healthcare efficiency.",
+        "Gained valuable experience in rapid application development and teamwork."
+      ],
+      "skills": [
+        "Figma",
+        "React",
+        "SQL",
+        "Git",
         "GitHub"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "Microsoft LaunchX Hackathon: Hack the Ocean",
+      "position": "Frontend developer",
+      "location_type": "Remote",
+      "location": "CDMX, México",
+      "url": "https://info.microsoft.com/LA-DevEngage-WBNR-FY22-02Feb-15-Launch-X-SRDEM100737_LP02-On-Demand-Registration---Form-in-Body.html",
+      "startDate": "2022-02-01",
+      "endDate": "2022-03-12",
+      "summary": "Participated in the inaugural edition of the Hack the Ocean Hackathon organized by Microsoft LaunchX and Innovacción Virtual. Contributed as a frontend developer to create a website aimed at raising awareness about endangered marine species and connecting nonprofit organizations to foster collaboration for their protection.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Frontend: HTML, CSS, and JavaScript with a focus on responsive design and a full defelopment with Vue.",
+        "Collaboration: Agile development practices to meet tight deadlines."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Designed and developed the website's user interface to ensure accessibility and engagement.",
+        "Implemented visually appealing components to highlight key information about endangered marine species.",
+        "Collaborated with the team to integrate features that connect nonprofit organizations.",
+        "Conducted testing to ensure functionality and a smooth user experience."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Successfully delivered a functional and visually compelling website within the hackathon's time frame.",
+        "Contributed to a project with a positive social impact, promoting environmental awareness and collaboration.",
+        "Gained experience in environmental-focused software development and teamwork."
       ],
       "skills": [
-        "Python",
-        "Django",
+        "Figma",
+        "Vue",
         "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Git",
+        "GitHub"
       ]
     }
   ],
@@ -222,6 +236,16 @@
     },
     {
       "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
       "level": "Intermediate",
       "keywords": [
         "Databases",
