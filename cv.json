@@ -33,6 +33,43 @@
     ]
   },
   "work": [
+      {
+        "name": "Sositi Soluciones Informaticas",
+        "position": "Frontend developer",
+        "location_type": "Remote",
+        "location": "Mazatlán, Sinaloa",
+        "url": "https://sositi.com/",
+        "startDate": "2025-03-15",
+        "endDate": "",
+        "summary": "Responsible for frontend development of internal web applications for businesses, using Next.js and TypeScript to build reusable, accessible, and high-performance interfaces. Remote collaboration with backend and design teams to deliver internal tools (dashboards, admin panels, and management systems) with a focus on maintainability and user experience.",
+        "highlights": [
+          "Frontend: Next.js (SSG/SSR), React and TypeScript for internal applications and admin panels.",
+          "UI/UX: Reusable components with Tailwind CSS and Styled Components; focus on accessibility (a11y) and responsive design.",
+          "Integrations: Consumption of REST APIs; authentication and authorization management (NextAuth/JWT)."
+        ],
+        "responsibilities": [
+          "Develop and maintain Next.js applications focused on internal business flows: dashboards, admin panels, and reporting tools.",
+          "Design and build a reusable UI component library to speed up new views and ensure visual consistency.",
+          "Implement responsive and accessible interfaces following a11y best practices and performance testing (Lighthouse).",
+          "Collaborate closely with backend engineers, designers and stakeholders to translate requirements into technical and UX solutions.",
+          "Participate in code reviews, mentor colleagues and continuously improve the development workflow."
+        ],
+        "achievements": [
+          "Delivered multiple internal applications (administrative dashboards and management tools) built with Next.js and Tailwind, ready for internal use.",
+          "Created a component library and reusable patterns that reduced development time for new modules and improved visual consistency.",
+          "Worked effectively with backend and design teams to meet business requirements and accessibility standards in internal products."
+        ],
+        "skills": [
+          "Next.js",
+          "TypeScript",
+          "React",
+          "Tailwind",
+          "Styled Components",
+          "GitLab",
+          "REST",
+          "Performance Optimization"
+        ]
+      },
     {
       "name": "Eighteen company",
       "position": "Trainee Fullstack Web Developer",
